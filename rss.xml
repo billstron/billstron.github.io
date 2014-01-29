@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+ <channel>
+  <title>William J. Burke News</title>
+  <link>http://billstron.com/index.html</link>
+  <description>William J. Burke's recent news.  </description>
+  <lastBuildDate>Tue, 15 Dec 2009 01:13:46 GMT</lastBuildDate>
+  <item>
+   <title>CEC Presentation</title>
+   <link>http://billstron.com</link>
+   <description>I presented &lt;em&gt;Price Responsive Loads -- Simulation Results&lt;/em&gt; to a small audience of technical people and policy makers at the California Energy Commission in Sacramento CA.  The full presentation can be found (as always) on my <a href="./research.html">research</a> page.  </description>
+   <pubDate>Tue, 15 Dec 2009 01:13:46 GMT</pubDate>
+  </item>
+  <item>
+   <title>DSC Conference Presentation</title>
+   <link>http://billstron.com</link>
+   <description>I presented &lt;em&gt;PWM Synchronization for Intelligent Agent Scarce Resource Auction&lt;/em&gt; at the 2009 Dynamic Systems and Controls Conference in Hollywood CA.  (&quot;Nerds in Hollywood&quot; coming soon to a theater near you.)  Check out my &lt;a href=&quot;./research.html&quot;&gt;research&lt;/a&gt; page for the paper and presentation.  </description>
+   <pubDate>Thu, 22 Oct 2009 18:01:46 GMT</pubDate>
+  </item>
+  <item>
+   <title>NAPS Conference Presenation</title>
+   <link>http://billstron.com</link>
+   <description>I presented &lt;em&gt;Residential Electricity Auction with Uniform Pricing and Cost Constraints&lt;/em&gt; at the 2009 North American Power Symposium in Starkville MS.  My presentation went great -- good crowd and excellent questions.  Go to my &lt;a href=&quot;./research.html&quot;&gt;research&lt;/a&gt; page for more info.  </description>
+   <pubDate>Tue, 06 Oct 2009 18:00:51 GMT</pubDate>
+  </item>
+  <item>
+   <title>IDETC Conference Presentation</title>
+   <link>http://billstron.com</link>
+   <description>I presented &lt;em&gt;Low Frequency Pulse Width Modulation Design For HVAC Compressors&lt;/em&gt; at the 2009 ASME/IEEE International Conference on Mechatronics and Embedded Systems and Applications in San Diego CA.  Check out my &lt;a href=&quot;./research.html&quot;&gt;research&lt;/a&gt; page for links to the presentation and paper.</description>
+   <pubDate>Wed, 02 Sept 2009 17:59:23 GMT</pubDate>
+  </item>
+  <item>
+   <title>Site Un-Launch</title>
+   <link>http://billstron.com</link>
+   <description>I just un-launched my site at wjburke.com. All of that information is now here, and I set up page redirects and forwards for appropriate pages.  Two websites was just too hard to manage, but I still own wjburke.com.  
+
+&lt;a href=&quot;http://billstron.com&quot;&gt;Read&lt;/a&gt;</description>
+   <pubDate>Mon, 10 Aug 2009 17:49:20 GMT</pubDate>
+  </item>
+  <item>
+   <title>New Thermostats Could Save Billions</title>
+   <link>http://billstron.com</link>
+   <description>&lt;a href=&quot;http://innovations.coe.berkeley.edu/vol3-issue6-aug09/thermostat&quot;&gt;Listening to the Price of Power: New Thermostats Could Save Billions&lt;/a&gt; -- More press for our PCT project.  This time I'm mentioned by name.  
+
+&lt;a href=&quot;http://billsron.com&quot;&gt;Read&lt;/a&gt;</description>
+   <pubDate>Tue, 04 Aug 2009 17:47:55 GMT</pubDate>
+  </item>
+  <item>
+   <title>New Site Created</title>
+   <link>http://billstron.com</link>
+   <description>I just launched a new website for all of my professional information.  Check it out at &lt;a href=&quot;http://www.wjburke.com&quot;&gt; www.wjburke.com &lt;/a&gt; and let me know what you think.
+
+&lt;a href=&quot;http://billstron.com/index.html&quot;&gt;Read&lt;/a&gt;</description>
+   <pubDate>Thu, 22 Oct 2009 17:27:39 GMT</pubDate>
+  </item>
+  <item>
+   <title>A New Generation of Thermostats can Save California Billions</title>
+   <link>http://billstron.com</link>
+   <description>&lt;a href=&quot;http://www.citris-uc.org/publications/newsletters/april2009#article-6477&quot;&gt; Listening to the Price of Power: A New Generation of Thermostats can Save California Billions&lt;/a&gt; -- Starting in Jan 2006, I worked on a project to produce a proof of concept programmable communicating thermostat (PCT) for the California Energy Commission.  Although this article does not mention my name, I wrote a very large portion of the PCT software.
+
+&lt;a href=&quot;http://billstron.com/index.html&quot;&gt;Read&lt;/a&gt;</description>
+   <pubDate>Wed, 01 Apr 2009 12:00:00 GMT</pubDate>
+  </item>
+ </channel>
+</rss>
