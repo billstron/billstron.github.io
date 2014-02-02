@@ -1,0 +1,12 @@
+.every-other li{
+	padding : .5em .1em .5em .5em;
+}
+
+.every-other li:nth-child(even) {
+	background: #ddd;
+}
+
+.footer-bottom{
+	padding-top : 1em;
+	background: #ddd;
+}
