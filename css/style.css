@@ -1,3 +1,13 @@
+
+
+body{
+	background : #ddd;
+}
+
+.main{
+	background : white;
+}
+
 .every-other li{
 	padding : .5em .1em .5em .5em;
 }
@@ -14,4 +24,8 @@
 .font-white{
 	color : white;
 	text-shadow: 2px 2px #cccccc;
+}
+
+.body-content{
+	min-height : 400px;
 }
