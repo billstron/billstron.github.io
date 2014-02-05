@@ -10,3 +10,8 @@
 	padding-top : 1em;
 	background: #ddd;
 }
+
+.font-white{
+	color : white;
+	text-shadow: 2px 2px #cccccc;
+}
