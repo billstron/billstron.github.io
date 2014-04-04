@@ -1,0 +1,70 @@
+==================================================================
+https://keybase.io/billstron
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://billstron.com
+  * I am billstron (https://keybase.io/billstron) on keybase.
+  * I have a public key with fingerprint F5F8 A439 7BAD D185 0631  B900 66EB 341A AE12 96BC
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "f5f8a4397badd1850631b90066eb341aae1296bc",
+            "host": "keybase.io",
+            "key_id": "66eb341aae1296bc",
+            "uid": "0c00bc0e1c78b5ee3b3213ce5a925900",
+            "username": "billstron"
+        },
+        "service": {
+            "hostname": "billstron.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1396603953,
+    "expire_in": 157680000,
+    "prev": "7a1bcbc8e0f5d74a8fff2dc89c751f7e78c6e96ab330ab460dc6cc4bcc2a2d4a",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+Comment: GPGTools - https://gpgtools.org
+
+owGbwMvMwMUooWzcLZohrM94+sCXJIZgu5rn1UpJ+SmVSlbVStmpYCotMy89taig
+KDOvRMlKKc00zSLRxNjSPCkxJcXQwtTAzNgwydLAwMwsNcnYxDAxMdXQyNIsKVlJ
+RykjvxikA2hMUmJxql5mPlAMyInPTAGKYlFfCpYwSDYwSEo2SDVMNrdIMk1NNU4y
+NjI0Tk41TbQ0MgVaBFJYnFqUl5ibClSdlJmTU1xSlJ+nVKujBBQuy0xOBTkaZDe6
+Er3k/Fyg7oKi/JL85PwcoFRGSUmBFUhnSWUBSGl5alI81JD4pMy8FKDPgRrKUouK
+M4E2WBkCVSaXZIJMNTS2NDMzMLY0NdZRSq0oyCxKjc8EqTA1N7MwAAKQNallQCPN
+Ew2TkpOSLVIN0kxTzE0SLdLS0oxSki0sk81NDdPMU80tks1SLc0Sk4yNDRKTTMwM
+UpLNkpNNkpKTjRKNUkwSlUDeKszLV7IC2lSSmA40sjgzPS+xpLQoVamWq5NJhoWB
+kYuBjZUJFHkMXJwCsChN3sj/m+WluvjMNXV5Rga9XyeXpnWrnWqS8P2wwLw57Pd1
+Hrfahw85ZcNbfs8qNGXdsfxp4dS/vKV2V0s+fH6junVG94rD+leDv3S+4a0/ILfR
+Jt56gkV/yF3jE0XvfqacfbLvtMSfH8Xv+M7s8ulv8VVniBA6yunILfl37qPQnwI3
+N+7bJd1nM9F6/nr/szUVu3fuf3Dzt1PErPXMD274+58Wn3lBU9z8fYHHQV7xE5d3
+fpjp8WVG77O1bedz74aXnpVKixByZuCePn3Zv3+rfYz2TLt9ee2kNW/Z5guZidv0
+iKjKB98uUWFfWC3m5Wz+wkPf28hhaY7WidUdoS0d8ddKvH7ETNZm5y85FZf8ct6v
+op1H+znOBl+SN5kQkfv59FGz6tSbHZfvuNZmGWXtU4hY+3GKwr0FJ5WzeL+m/lTb
+8/fG8h2ND+Pl/3xNSVnvVFd0SOzcvxUqRx83Rq3SLNp59p7k7yq5U+v9JMs8nxrO
+0Y0rfrY0pY6da/f1zfxbzl7fNPOZR4Hkplfi2uL5DifqjqRv5JLeWaVUttB7ct+q
+E7dC1tTeVMv/UraB8cS0jLWia6cl6LuYdlm0/G5w883nZ1u4+cHXPf8mCp44P6Ps
+gKKfpduTIK2JQZN+h/UwZ6VJTVugcbphx5339vO7HpuWvj4nsmnVI6WE/323Bc6r
+yx3zSFpbtDCxTtV/unbysUthx3aEJd/cFTr1QvxfPlsA
+=7A5C
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/billstron
+
+==================================================================
