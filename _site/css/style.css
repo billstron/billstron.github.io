@@ -1,0 +1,31 @@
+
+
+body{
+	background : #ddd;
+}
+
+.main{
+	background : white;
+}
+
+.every-other li{
+	padding : .5em .1em .5em .5em;
+}
+
+.every-other li:nth-child(even) {
+	background: #ddd;
+}
+
+.footer-bottom{
+	padding-top : 1em;
+	background: #ddd;
+}
+
+.font-white{
+	color : white;
+	text-shadow: 2px 2px #cccccc;
+}
+
+.body-content{
+	min-height : 400px;
+}

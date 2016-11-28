@@ -1,0 +1,40 @@
+<div class="row" style="padding-top: 1em;">
+  <div class="column large-3 medium-3 text-center">
+    <a class="large-centered" href="index.html">
+      <img style="border: 0px solid ; height: 175px;" alt="William Burke" title="photo by Stephannie Brown Block" src="./images/head-shot-no-beard.jpg">
+    </a>
+  </div>
+  <div class="column large-9 medium-9" style="padding-top: 1.5em;">
+    <div class="row">
+      <div class="column large-9 medium-12 text-center">
+        <h1>
+          William J. Burke Ph.D.
+        </h1>
+      </div>
+    </div>
+
+    {% if page.title %}
+    <div class="row">
+      <div class="column large-7 medium-12 text-center">
+        <h3>{{page.title}}</h3>
+      </div>
+    </div>
+    {% else %}
+    <div class="row">
+      <div class="column large-7 medium-12 text-center">
+        <dl class="sub-nav" style="display : inline-block;">
+          <dd>
+            <a href="http://www.twitter.com/billstron"><i class="fa fa-twitter fa-3x"></i></a>
+          </dd>
+          <dd>
+            <a href="http://www.facebook.com/billstron"><i class="fa fa-facebook-square fa-3x"></i></a>
+          </dd>
+          <dd>
+            <a href="/contact.html"><i class="fa fa-envelope fa-3x"></i></a>
+          </dd>
+        </dl>
+      </div>
+    </div>
+    {% endif %}
+  </div>
+</div>
