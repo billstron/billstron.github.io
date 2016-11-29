@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/billstron
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.billstron.com
+  * I am billstron (https://keybase.io/billstron) on keybase.
+  * I have a public key ASB__Fyy4rw_LoCTHhO0OTtGIdYvd3edMJ41c_-Z_r5mxgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010117cd6c60c2bf19a375c6a94be17c10625cb1344aa98e21f8b4d6709c2cbe61e20a",
+            "host": "keybase.io",
+            "kid": "01207ffc5cb2e2bc3f2e80931e13b4393b4621d62f77779d309e3573ff99febe66c60a",
+            "uid": "0c00bc0e1c78b5ee3b3213ce5a925900",
+            "username": "billstron"
+        },
+        "service": {
+            "hostname": "www.billstron.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1480420703,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1480420672,
+        "hash": "381dfc3549d556909be9507bb1429e9c637078fdecf4f7e4ceba481ad98450ccbed1a920d1bf1a45aaddceff53b165c8ce37cefd296272c52ceb6f61787955b4",
+        "seqno": 739711
+    },
+    "prev": "e3cea47b07f08c529f39b00cb3ee4f4a93bbd996062638ab791b295dbd87f02e",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgf/xcsuK8Py6Akx4TtDk7RiHWL3d3nTCeNXP/mf6+ZsYKp3BheWxvYWTFAvl7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMTdjZDZjNjBjMmJmMTlhMzc1YzZhOTRiZTE3YzEwNjI1Y2IxMzQ0YWE5OGUyMWY4YjRkNjcwOWMyY2JlNjFlMjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwN2ZmYzVjYjJlMmJjM2YyZTgwOTMxZTEzYjQzOTNiNDYyMWQ2MmY3Nzc3OWQzMDllMzU3M2ZmOTlmZWJlNjZjNjBhIiwidWlkIjoiMGMwMGJjMGUxYzc4YjVlZTNiMzIxM2NlNWE5MjU5MDAiLCJ1c2VybmFtZSI6ImJpbGxzdHJvbiJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoid3d3LmJpbGxzdHJvbi5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE4In0sImN0aW1lIjoxNDgwNDIwNzAzLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0ODA0MjA2NzIsImhhc2giOiIzODFkZmMzNTQ5ZDU1NjkwOWJlOTUwN2JiMTQyOWU5YzYzNzA3OGZkZWNmNGY3ZTRjZWJhNDgxYWQ5ODQ1MGNjYmVkMWE5MjBkMWJmMWE0NWFhZGRjZWZmNTNiMTY1YzhjZTM3Y2VmZDI5NjI3MmM1MmNlYjZmNjE3ODc5NTViNCIsInNlcW5vIjo3Mzk3MTF9LCJwcmV2IjoiZTNjZWE0N2IwN2YwOGM1MjlmMzliMDBjYjNlZTRmNGE5M2JiZDk5NjA2MjYzOGFiNzkxYjI5NWRiZDg3ZjAyZSIsInNlcW5vIjo5LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQPddVWFmo58Kk24r5uLZ0gnT3i46CpYOd09NdFSWt4ySN7cxsxRE/BlqYTy3c+dv9oa4Y2XGCq79++pyVfIcrQCoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBsuojQ5eWCK9FDMZg9x/XYA/ye96QkJWG3hUcH6oHGHqN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/billstron
+
+==================================================================
